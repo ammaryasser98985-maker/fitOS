@@ -768,7 +768,7 @@ function Notif({msg, type="success"}) {
 }
 
 // ─── Main App ─────────────────────────────────────────────────────────────────
-export default function FitOS() {
+export default function App() {
   const [screen, setScreen] = useState("loading");
   const [step, setStep] = useState(1);
   const [profile, setProfile] = useState({});
