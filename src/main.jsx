@@ -4,6 +4,6 @@ import App from './App.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <FitOS />
+    <App />
   </React.StrictMode>,
 )
