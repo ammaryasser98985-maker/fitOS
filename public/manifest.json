@@ -1,0 +1,16 @@
+{
+  "name": "FitOS",
+  "short_name": "FitOS",
+  "description": "تطبيق تتبع التمارين",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080810",
+  "theme_color": "#C8FF00",
+  "icons": [
+    {
+      "src": "https://placehold.co/512x512/080810/C8FF00/png?text=FitOS",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
